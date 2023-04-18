@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lottery-webapp/static/css/main.6ee1fb97.css",
+    "main.js": "/lottery-webapp/static/js/main.2acebda5.js",
+    "static/js/787.c90eb3c1.chunk.js": "/lottery-webapp/static/js/787.c90eb3c1.chunk.js",
+    "index.html": "/lottery-webapp/index.html",
+    "main.6ee1fb97.css.map": "/lottery-webapp/static/css/main.6ee1fb97.css.map",
+    "main.2acebda5.js.map": "/lottery-webapp/static/js/main.2acebda5.js.map",
+    "787.c90eb3c1.chunk.js.map": "/lottery-webapp/static/js/787.c90eb3c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ee1fb97.css",
+    "static/js/main.2acebda5.js"
+  ]
+}
